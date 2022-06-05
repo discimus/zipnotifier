@@ -1,0 +1,12 @@
+{
+  "name": "zipnotifier",
+  "description": "An application to search for a brazilian zip code and notify details.",
+  "version": "1.0.0",
+  "author": "discimus",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "dotenv": "^16.0.1",
+    "node-notifier": "^10.0.1"
+  }
+}
